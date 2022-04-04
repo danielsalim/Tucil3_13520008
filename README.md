@@ -1,4 +1,4 @@
-# Program Python Penyelesaian Persoalan 15-Puzzle dengan Algoritma Branch and Bound sebagai Tugas Kecil 3 IF2211 Strategi Algoritma
+# Program Python 15-Puzzle Solver sebagai Tugas Kecil 3 IF2211 Strategi Algoritma
 ### Daniel Salim / K02 / 13520008
 
 ### Deskripsi Program
